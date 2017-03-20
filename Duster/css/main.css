@@ -1,0 +1,512 @@
+body{
+	background-color: #0A0A0A;
+	font-family: inheret;
+	height: 6000px
+	position: relative;
+}
+
+header{
+	background-image: url(../Assets/EDITED.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    /*background-size: 110%;*/
+    -o-background-size: cover;
+    color: #FFE7D7;
+    text-align: center;
+    margin-top: 40px;
+}
+hr {
+    max-width: 100px; 
+    border-top: 1px solid #B27247;
+    border-bottom: 1px solid #B27247;
+    height: 2px;
+    margin: 35px auto;
+}
+a:focus{
+	text-decoration: none;
+	color:#DCDCDC;
+}
+.navbar .container-fluid{
+	padding:0 60px;
+}
+.navbar-header .navbar-brand{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 900;
+	font-size: 28px;
+	letter-spacing: 2px;
+	margin-top:3px;
+	color:#B27247;
+}
+.nav li a{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 100;
+	font-size: 14px;
+	letter-spacing: 1px;
+	-o-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-khtml-transition: color 0.2s linear;
+	-webkit-transition: color 0.2s linear;
+	-ms-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+.nav li:hover{
+	background-color: #B27247;
+	color: #FFE7D7;
+}
+.hero-text{
+	padding-top: 350px;
+    padding-bottom: 400px;
+}
+.hero-heading{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 900;
+	font-size: 150px;
+	line-height: 1;
+}
+.hero-supplement{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 100;
+	font-size: 24px;
+	letter-spacing: 2px;
+	/*font-style: italic;*/
+}
+
+
+.aboutSec{
+	color: #B79B88;
+	background-image: url(../Assets/Astro.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+.aboutSec .container-fluid {
+	padding: 150px 0;
+}
+.about-text{
+	text-align: center;
+	padding: 0 30px;
+}
+.about-text p{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 200;
+	font-size: 26px;
+	letter-spacing: 1px;
+}
+.about-text h4{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 100;
+	font-size: 18px;
+	letter-spacing: 1px;
+}
+.portfolio hr{
+	max-width: 90%; 
+	border-top: 1px solid #202A31;
+    border-bottom: 1px solid #202A31;
+	margin: 25px auto;
+}
+.bkgImage{
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	position: relative;
+	padding-bottom: 100%;
+}
+.MCRN{
+		background-image: url('../Assets/1_MCRN/1_Cover.jpg');
+}
+.Hermes{
+		background-image: url('../Assets/2_ShipUI/2_Cover.png');
+}
+.Foundation{
+		background-image: url('../Assets/3_MiningUI/3_Cover.png');
+}
+.MarsGE{
+		background-image: url('../Assets/4_MarsGE/4_Cover.jpg');
+}
+.TerraNovus{
+		background-image: url('../Assets/5_TerraNovusBranding/5_Cover.jpg');
+}
+.ArrakisMedical{
+		background-image: url('../Assets/6_MedicalUI/6_Cover.png');
+}
+.HikeMars{
+		background-image: url('../Assets/7_HikeMarsTourism/7_Cover.jpg');
+}
+.KuehneNagel{
+		background-image: url('../Assets/8_ShippingBranding/8_Cover.jpg');
+}
+.imgLink{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 2;
+	width: 100%;	
+	height:100%;
+}
+
+.overlayText{
+	width:100%;
+	text-align: center;
+	color:#DCDCDC;
+}
+.clientText{
+	margin: 0;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 900;
+	text-decoration: none;
+}
+.serviceText{
+	font-family: 'Kanit', sans-serif;
+	font-weight: 200;
+	font-size: 13px;
+	letter-spacing: 2px;
+	padding:0;
+	margin: 0;
+}
+.clientLink{
+	color:#DCDCDC;
+	text-decoration: none;
+}
+.clientLink:hover{
+	text-decoration: none;
+	color:#CC6633;
+}
+
+
+footer{
+	background-image: url(../Assets/footer2.png);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    /*background-size: 110%;*/
+    -o-background-size: cover;
+    /*padding-bottom: 500px;*/
+    padding-top:20px;
+}
+
+footer h2{
+	color:#CC6633;
+	font-family: 'Kanit', sans-serif;
+	font-weight: 100;
+	font-size: 36px;
+	border-bottom: thin solid white;
+	text-transform: uppercase;
+	padding-bottom:10px;
+}
+footer .container-fluid{
+	padding: 0 40px;
+}
+.address p{
+	text-align: left;
+	margin:0;
+	padding:0;
+	font-family: 'Kanit', sans-serif;
+	font-weight:200;
+	font-size: 18px;
+	line-height: 1;
+	color:white;
+}
+.address p a{
+	text-decoration:none;
+	color:white;
+	cursor:default;
+	margin-bottom:30px;
+}
+.address p.number{
+	margin-bottom:20px;
+}
+img{
+	margin:30px 0;
+}
+
+
+/* ==================== Font ==================== */
+@font-face {
+	font-family: 'Peace Sans';
+	src: url('Assets/fonts/Peace Sans Webfont.ttf');
+}
+@font-face {
+	font-family: 'Coves Bold';
+	src: url('Assets/fonts/Coves Bold.otf');
+}
+@font-face {
+	font-family: 'Coves Light';
+	src: url('Assets/fonts/Coves Light.otf');
+}
+@font-face{
+	font-family: 'Kanit', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+/* ==================== Media Queries ==================== */
+/* smartphones, iPhone, portrait 480x320 phones */
+@media (min-width:320px)  {
+header{
+	background-size: 150%}
+.navbar .container-fluid{
+	padding:0 30px;}   
+.hero-heading{
+	font-size: 60px;
+	line-height: .75;
+	letter-spacing: 5px;}
+.hero-supplement{
+	font-size: 12px;
+	font-weight: 200;
+	margin: 0px;}
+.hero-text{
+	padding-top: 120px;
+    padding-bottom: 120px;}
+.about-text h4{
+	font-size: 18px;
+	font-weight: 200;
+	letter-spacing: 1px;}
+.about-text p{
+	font-size: 22px;
+	letter-spacing: 1px;}
+.aboutSec .container-fluid {
+	padding-top: 50px;
+	padding-bottom: 50px;}
+hr {
+    margin: 75px auto;}
+.hidden-med-down{
+	 visibility: hidden;}
+.overlay{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	left:0;
+	z-index: 3;
+	height: 25%;
+	opacity:1.0;
+	background-color:rgba(0, 0, 0, 0.4);}
+.clientText{
+	font-size: 36px;
+	letter-spacing: 3px;}
+.serviceText{
+	font-size: 18px;
+	letter-spacing: 2px;}
+#AM{
+	font-size: 34px; 
+	letter-spacing: 1px}
+
+} /* End (min-width:320px) */
+
+
+
+/* -------------------- */
+/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */
+@media (min-width:481px)  {
+header{
+		background-size: 130%
+	}
+.hero-heading{
+	font-size: 75px;
+	letter-spacing: 5px;
+	text-indent: -1px;
+	line-height: 1;}
+.hero-text{
+	padding-top: 140px;
+    padding-bottom: 140px;}
+.hero-supplement{;
+	font-weight: 100;}
+.aboutSec .container-fluid {
+	padding: 80px 0;}
+hr {
+    margin: 95px auto;}
+.hidden-med-down{
+	 visibility: hidden;}
+.overlay{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	left:0;
+	z-index: 3;
+	padding: 1rem;
+	height: 21%;
+	opacity:1.0;
+	background-color:rgba(0, 0, 0, 0.4);}
+.clientText{
+	font-size: 46px;
+	letter-spacing: 3px;}
+.serviceText{
+	font-size: 18px;
+	letter-spacing: 2px;}
+#AM{
+	font-size: 36px; 
+	letter-spacing: 3px}
+
+} /* End (min-width:481px) */
+
+
+
+/* -------------------- */
+/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */
+@media (min-width:641px)  {  
+header{
+		background-size: 110%
+	}
+.navbar .container-fluid{
+	padding:0 60px;}  
+.hero-heading{
+	font-size: 100px;
+	letter-spacing: 5px;
+	text-indent: -5px;}
+.hero-supplement{
+	font-size: 18px;}
+.hero-text{
+	padding-top: 170px;
+    padding-bottom: 170px;}
+
+.aboutSec .container-fluid {
+	padding-top: 80px;
+	padding-bottom: 150px;}
+hr {
+    margin: 35px auto;}
+.hidden-med-down{
+	 visibility: visible;}
+.overlay{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	left:0;
+	z-index: 3;
+	padding: 1rem;
+	height: 20%;
+	opacity:1.0;
+	background-color:rgba(0, 0, 0, 0.4);}
+.clientText{
+	font-size: 46px;
+	letter-spacing: 3px;}
+.serviceText{
+	font-size: 24px;
+	letter-spacing: 2px;}
+#AM{
+	font-size: 36px; 
+	letter-spacing: 3px}
+
+} /* End (min-width:641px) */
+
+
+
+/* -------------------- */
+/* tablet, landscape iPad, lo-res laptops ands desktops */
+@media (min-width:961px)  { 
+.hero-heading{
+	font-size: 120px;
+	letter-spacing: 10px;
+	text-indent: -10px;}
+.hero-supplement{
+	font-size: 20px;}
+.hero-text{
+	padding-top: 210px;
+    padding-bottom: 185px;}
+
+.aboutSec .container-fluid {
+	padding-top: 100px;
+	padding-bottom: 200px;}
+.hidden-med-down{
+	 visibility: visible;}
+.overlay{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	left:0;
+	z-index: 3;
+	padding: 1rem;
+	height: 25%;
+	opacity:1.0;
+	background-color:rgba(0, 0, 0, 0.4);}
+.clientText{
+	font-size: 20px;
+	letter-spacing: 3px;}
+.serviceText{
+	font-size: 12px;
+	letter-spacing: 2px;}
+#AM{
+	font-size: 20px; 
+	letter-spacing: 3px}
+
+
+} /* End (min-width:961px) */
+
+
+
+/* -------------------- */
+/* big landscape tablets, laptops, and desktops */
+@media (min-width:1025px) {  
+.hero-heading{
+	font-size: 180px;
+	letter-spacing: 20px;
+	text-indent: -70px;}
+.hero-supplement{
+	font-size: 22px;}
+.hero-text{
+	padding-top: 240px;
+    padding-bottom: 200px;}
+
+.aboutSec .container-fluid {
+	padding-top: 150px;
+	padding-bottom: 210px;}
+hr {
+    margin: 45px auto;}
+.overlay{
+	position: absolute;
+	bottom:0;
+	width:100%;
+	left:0;
+	z-index: 3;
+	padding: 1.6rem;
+	height: 20%;
+	transition: 0.5s ease;
+	opacity: 0;}
+.bkgImage:hover .overlay{
+	height:29%;
+	opacity: 1.0;
+	background-color:rgba(0, 0, 0, 0.7);}
+.clientText{
+	font-size: 30px;
+	letter-spacing: 6px;}
+.serviceText{
+	font-size: 13px;
+	letter-spacing: 2px;}
+#AM{
+	font-size: 25px; 
+	letter-spacing: 2px}
+
+} /* End (min-width:1025px) */
+
+
+
+/* -------------------- */
+/* hi-res laptops and desktops */
+@media (min-width:1280px) {  
+.hero-text{
+	padding-top: 280px;
+    padding-bottom: 280px;}
+.about-text h4{
+	font-size: 22px;
+	font-weight: 200;
+	letter-spacing: 1px;}
+.about-text p{
+	font-size: px;
+	letter-spacing: 1px;}
+#AM{
+	font-size: 26px; 
+	letter-spacing: 3px}
+
+} /* End (min-width:1281px) */
