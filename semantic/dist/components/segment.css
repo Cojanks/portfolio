@@ -506,19 +506,19 @@
 
 /* Red */
 .ui.red.segment:not(.inverted) {
-  border-top: 2px solid #DB2828;
+  border-top: 2px solid #EE4035;
 }
 .ui.inverted.red.segment {
-  background-color: #DB2828 !important;
+  background-color: #EE4035 !important;
   color: #FFFFFF !important;
 }
 
 /* Orange */
 .ui.orange.segment:not(.inverted) {
-  border-top: 2px solid #F2711C;
+  border-top: 2px solid #F3A530;
 }
 .ui.inverted.orange.segment {
-  background-color: #F2711C !important;
+  background-color: #F3A530 !important;
   color: #FFFFFF !important;
 }
 
@@ -542,19 +542,19 @@
 
 /* Green */
 .ui.green.segment:not(.inverted) {
-  border-top: 2px solid #21BA45;
+  border-top: 2px solid #a3d749;
 }
 .ui.inverted.green.segment {
-  background-color: #21BA45 !important;
+  background-color: #a3d749 !important;
   color: #FFFFFF !important;
 }
 
 /* Teal */
 .ui.teal.segment:not(.inverted) {
-  border-top: 2px solid #00B5AD;
+  border-top: 2px solid #4CB2D4;
 }
 .ui.inverted.teal.segment {
-  background-color: #00B5AD !important;
+  background-color: #4CB2D4 !important;
   color: #FFFFFF !important;
 }
 

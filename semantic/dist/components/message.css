@@ -348,19 +348,19 @@
 }
 .ui.red.message {
   background-color: #FFE8E6;
-  color: #DB2828;
-  box-shadow: 0px 0px 0px 1px #DB2828 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #EE4035;
+  box-shadow: 0px 0px 0px 1px #EE4035 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.red.message .header {
-  color: #c82121;
+  color: #ec2a1d;
 }
 .ui.orange.message {
   background-color: #FFEDDE;
-  color: #F2711C;
-  box-shadow: 0px 0px 0px 1px #F2711C inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #F3A530;
+  box-shadow: 0px 0px 0px 1px #F3A530 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.orange.message .header {
-  color: #e7640d;
+  color: #f29b18;
 }
 .ui.yellow.message {
   background-color: #FFF8DB;
