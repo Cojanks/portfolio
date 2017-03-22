@@ -2544,7 +2544,7 @@ input::selection {
 
 .ui.blue.buttons .button,
 .ui.blue.button {
-  background-color: #2185D0;
+  background-color: #105170;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -2556,21 +2556,21 @@ input::selection {
 
 .ui.blue.buttons .button:hover,
 .ui.blue.button:hover {
-  background-color: #1678c2;
+  background-color: #09425e;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.blue.buttons .button:focus,
 .ui.blue.button:focus {
-  background-color: #0d71bb;
+  background-color: #043953;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.blue.buttons .button:active,
 .ui.blue.button:active {
-  background-color: #1a69a4;
+  background-color: #0a3143;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2579,7 +2579,7 @@ input::selection {
 .ui.blue.buttons .active.button:active,
 .ui.blue.active.button,
 .ui.blue.button .active.button:active {
-  background-color: #1279c6;
+  background-color: #07435f;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2588,35 +2588,35 @@ input::selection {
 
 .ui.basic.blue.buttons .button,
 .ui.basic.blue.button {
-  box-shadow: 0px 0px 0px 1px #2185D0 inset !important;
-  color: #2185D0 !important;
+  box-shadow: 0px 0px 0px 1px #105170 inset !important;
+  color: #105170 !important;
 }
 
 .ui.basic.blue.buttons .button:hover,
 .ui.basic.blue.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #1678c2 inset !important;
-  color: #1678c2 !important;
+  box-shadow: 0px 0px 0px 1px #09425e inset !important;
+  color: #09425e !important;
 }
 
 .ui.basic.blue.buttons .button:focus,
 .ui.basic.blue.button:focus {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #0d71bb inset !important;
-  color: #1678c2 !important;
+  box-shadow: 0px 0px 0px 1px #043953 inset !important;
+  color: #09425e !important;
 }
 
 .ui.basic.blue.buttons .active.button,
 .ui.basic.blue.active.button {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #1279c6 inset !important;
-  color: #1a69a4 !important;
+  box-shadow: 0px 0px 0px 1px #07435f inset !important;
+  color: #0a3143 !important;
 }
 
 .ui.basic.blue.buttons .button:active,
 .ui.basic.blue.button:active {
-  box-shadow: 0px 0px 0px 1px #1a69a4 inset !important;
-  color: #1a69a4 !important;
+  box-shadow: 0px 0px 0px 1px #0a3143 inset !important;
+  color: #0a3143 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.blue.button:not(:first-child) {
@@ -2868,7 +2868,7 @@ input::selection {
 
 .ui.orange.buttons .button,
 .ui.orange.button {
-  background-color: #F3A530;
+  background-color: #FDC167;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -2880,21 +2880,21 @@ input::selection {
 
 .ui.orange.buttons .button:hover,
 .ui.orange.button:hover {
-  background-color: #fc9d0d;
+  background-color: #ffb74b;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.orange.buttons .button:focus,
 .ui.orange.button:focus {
-  background-color: #fa9600;
+  background-color: #ffb13c;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.orange.buttons .button:active,
 .ui.orange.button:active {
-  background-color: #e38d0d;
+  background-color: #fcac35;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2903,7 +2903,7 @@ input::selection {
 .ui.orange.buttons .active.button:active,
 .ui.orange.active.button,
 .ui.orange.button .active.button:active {
-  background-color: #ff9d0a;
+  background-color: #ffb74b;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -2912,35 +2912,35 @@ input::selection {
 
 .ui.basic.orange.buttons .button,
 .ui.basic.orange.button {
-  box-shadow: 0px 0px 0px 1px #F3A530 inset !important;
-  color: #F3A530 !important;
+  box-shadow: 0px 0px 0px 1px #FDC167 inset !important;
+  color: #FDC167 !important;
 }
 
 .ui.basic.orange.buttons .button:hover,
 .ui.basic.orange.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #fc9d0d inset !important;
-  color: #fc9d0d !important;
+  box-shadow: 0px 0px 0px 1px #ffb74b inset !important;
+  color: #ffb74b !important;
 }
 
 .ui.basic.orange.buttons .button:focus,
 .ui.basic.orange.button:focus {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #fa9600 inset !important;
-  color: #fc9d0d !important;
+  box-shadow: 0px 0px 0px 1px #ffb13c inset !important;
+  color: #ffb74b !important;
 }
 
 .ui.basic.orange.buttons .active.button,
 .ui.basic.orange.active.button {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #ff9d0a inset !important;
-  color: #e38d0d !important;
+  box-shadow: 0px 0px 0px 1px #ffb74b inset !important;
+  color: #fcac35 !important;
 }
 
 .ui.basic.orange.buttons .button:active,
 .ui.basic.orange.button:active {
-  box-shadow: 0px 0px 0px 1px #e38d0d inset !important;
-  color: #e38d0d !important;
+  box-shadow: 0px 0px 0px 1px #fcac35 inset !important;
+  color: #fcac35 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.orange.button:not(:first-child) {
@@ -3678,7 +3678,7 @@ input::selection {
 
 .ui.teal.buttons .button,
 .ui.teal.button {
-  background-color: #4CB2D4;
+  background-color: #76C6DE;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -3690,21 +3690,21 @@ input::selection {
 
 .ui.teal.buttons .button:hover,
 .ui.teal.button:hover {
-  background-color: #30add7;
+  background-color: #5bc1df;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.teal.buttons .button:focus,
 .ui.teal.button:focus {
-  background-color: #21a9d6;
+  background-color: #48bfe3;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.teal.buttons .button:active,
 .ui.teal.button:active {
-  background-color: #2e9bbf;
+  background-color: #4db5d4;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3713,7 +3713,7 @@ input::selection {
 .ui.teal.buttons .active.button:active,
 .ui.teal.active.button,
 .ui.teal.button .active.button:active {
-  background-color: #2cafda;
+  background-color: #58c2e2;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -3722,35 +3722,35 @@ input::selection {
 
 .ui.basic.teal.buttons .button,
 .ui.basic.teal.button {
-  box-shadow: 0px 0px 0px 1px #4CB2D4 inset !important;
-  color: #4CB2D4 !important;
+  box-shadow: 0px 0px 0px 1px #76C6DE inset !important;
+  color: #76C6DE !important;
 }
 
 .ui.basic.teal.buttons .button:hover,
 .ui.basic.teal.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #30add7 inset !important;
-  color: #30add7 !important;
+  box-shadow: 0px 0px 0px 1px #5bc1df inset !important;
+  color: #5bc1df !important;
 }
 
 .ui.basic.teal.buttons .button:focus,
 .ui.basic.teal.button:focus {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #21a9d6 inset !important;
-  color: #30add7 !important;
+  box-shadow: 0px 0px 0px 1px #48bfe3 inset !important;
+  color: #5bc1df !important;
 }
 
 .ui.basic.teal.buttons .active.button,
 .ui.basic.teal.active.button {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #2cafda inset !important;
-  color: #2e9bbf !important;
+  box-shadow: 0px 0px 0px 1px #58c2e2 inset !important;
+  color: #4db5d4 !important;
 }
 
 .ui.basic.teal.buttons .button:active,
 .ui.basic.teal.button:active {
-  box-shadow: 0px 0px 0px 1px #2e9bbf inset !important;
-  color: #2e9bbf !important;
+  box-shadow: 0px 0px 0px 1px #4db5d4 inset !important;
+  color: #4db5d4 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.teal.button:not(:first-child) {
@@ -4168,7 +4168,7 @@ input::selection {
 
 .ui.primary.buttons .button,
 .ui.primary.button {
-  background-color: #2185D0;
+  background-color: #105170;
   color: #FFFFFF;
   text-shadow: none;
   background-image: none;
@@ -4180,21 +4180,21 @@ input::selection {
 
 .ui.primary.buttons .button:hover,
 .ui.primary.button:hover {
-  background-color: #1678c2;
+  background-color: #09425e;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.primary.buttons .button:focus,
 .ui.primary.button:focus {
-  background-color: #0d71bb;
+  background-color: #043953;
   color: #FFFFFF;
   text-shadow: none;
 }
 
 .ui.primary.buttons .button:active,
 .ui.primary.button:active {
-  background-color: #1a69a4;
+  background-color: #0a3143;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -4203,7 +4203,7 @@ input::selection {
 .ui.primary.buttons .active.button:active,
 .ui.primary.active.button,
 .ui.primary.button .active.button:active {
-  background-color: #1279c6;
+  background-color: #07435f;
   color: #FFFFFF;
   text-shadow: none;
 }
@@ -4212,35 +4212,35 @@ input::selection {
 
 .ui.basic.primary.buttons .button,
 .ui.basic.primary.button {
-  box-shadow: 0px 0px 0px 1px #2185D0 inset !important;
-  color: #2185D0 !important;
+  box-shadow: 0px 0px 0px 1px #105170 inset !important;
+  color: #105170 !important;
 }
 
 .ui.basic.primary.buttons .button:hover,
 .ui.basic.primary.button:hover {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #1678c2 inset !important;
-  color: #1678c2 !important;
+  box-shadow: 0px 0px 0px 1px #09425e inset !important;
+  color: #09425e !important;
 }
 
 .ui.basic.primary.buttons .button:focus,
 .ui.basic.primary.button:focus {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #0d71bb inset !important;
-  color: #1678c2 !important;
+  box-shadow: 0px 0px 0px 1px #043953 inset !important;
+  color: #09425e !important;
 }
 
 .ui.basic.primary.buttons .active.button,
 .ui.basic.primary.active.button {
   background: transparent !important;
-  box-shadow: 0px 0px 0px 1px #1279c6 inset !important;
-  color: #1a69a4 !important;
+  box-shadow: 0px 0px 0px 1px #07435f inset !important;
+  color: #0a3143 !important;
 }
 
 .ui.basic.primary.buttons .button:active,
 .ui.basic.primary.button:active {
-  box-shadow: 0px 0px 0px 1px #1a69a4 inset !important;
-  color: #1a69a4 !important;
+  box-shadow: 0px 0px 0px 1px #0a3143 inset !important;
+  color: #0a3143 !important;
 }
 
 .ui.buttons:not(.vertical) > .basic.primary.button:not(:first-child) {
@@ -5039,1277 +5039,6 @@ input::selection {
          Site Overrides
 *******************************/
 /*!
- * # Semantic UI 2.2.9 - Flag
- * http://github.com/semantic-org/semantic-ui/
- *
- *
- * Released under the MIT license
- * http://opensource.org/licenses/MIT
- *
- */
-
-/*******************************
-             Flag
-*******************************/
-
-i.flag:not(.icon) {
-  display: inline-block;
-  width: 16px;
-  height: 11px;
-  line-height: 11px;
-  vertical-align: baseline;
-  margin: 0em 0.5em 0em 0em;
-  text-decoration: inherit;
-  speak: none;
-  font-smoothing: antialiased;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-/* Sprite */
-
-i.flag:not(.icon):before {
-  display: inline-block;
-  content: '';
-  background: url("./themes/default/assets/images/flags.png") no-repeat -108px -1976px;
-  width: 16px;
-  height: 11px;
-}
-
-/* Flag Sprite Based On http://www.famfamfam.com/lab/icons/flags/ */
-
-/*******************************
-         Theme Overrides
-*******************************/
-
-i.flag.ad:before,
-i.flag.andorra:before {
-  background-position: 0px 0px;
-}
-
-i.flag.ae:before,
-i.flag.united.arab.emirates:before,
-i.flag.uae:before {
-  background-position: 0px -26px;
-}
-
-i.flag.af:before,
-i.flag.afghanistan:before {
-  background-position: 0px -52px;
-}
-
-i.flag.ag:before,
-i.flag.antigua:before {
-  background-position: 0px -78px;
-}
-
-i.flag.ai:before,
-i.flag.anguilla:before {
-  background-position: 0px -104px;
-}
-
-i.flag.al:before,
-i.flag.albania:before {
-  background-position: 0px -130px;
-}
-
-i.flag.am:before,
-i.flag.armenia:before {
-  background-position: 0px -156px;
-}
-
-i.flag.an:before,
-i.flag.netherlands.antilles:before {
-  background-position: 0px -182px;
-}
-
-i.flag.ao:before,
-i.flag.angola:before {
-  background-position: 0px -208px;
-}
-
-i.flag.ar:before,
-i.flag.argentina:before {
-  background-position: 0px -234px;
-}
-
-i.flag.as:before,
-i.flag.american.samoa:before {
-  background-position: 0px -260px;
-}
-
-i.flag.at:before,
-i.flag.austria:before {
-  background-position: 0px -286px;
-}
-
-i.flag.au:before,
-i.flag.australia:before {
-  background-position: 0px -312px;
-}
-
-i.flag.aw:before,
-i.flag.aruba:before {
-  background-position: 0px -338px;
-}
-
-i.flag.ax:before,
-i.flag.aland.islands:before {
-  background-position: 0px -364px;
-}
-
-i.flag.az:before,
-i.flag.azerbaijan:before {
-  background-position: 0px -390px;
-}
-
-i.flag.ba:before,
-i.flag.bosnia:before {
-  background-position: 0px -416px;
-}
-
-i.flag.bb:before,
-i.flag.barbados:before {
-  background-position: 0px -442px;
-}
-
-i.flag.bd:before,
-i.flag.bangladesh:before {
-  background-position: 0px -468px;
-}
-
-i.flag.be:before,
-i.flag.belgium:before {
-  background-position: 0px -494px;
-}
-
-i.flag.bf:before,
-i.flag.burkina.faso:before {
-  background-position: 0px -520px;
-}
-
-i.flag.bg:before,
-i.flag.bulgaria:before {
-  background-position: 0px -546px;
-}
-
-i.flag.bh:before,
-i.flag.bahrain:before {
-  background-position: 0px -572px;
-}
-
-i.flag.bi:before,
-i.flag.burundi:before {
-  background-position: 0px -598px;
-}
-
-i.flag.bj:before,
-i.flag.benin:before {
-  background-position: 0px -624px;
-}
-
-i.flag.bm:before,
-i.flag.bermuda:before {
-  background-position: 0px -650px;
-}
-
-i.flag.bn:before,
-i.flag.brunei:before {
-  background-position: 0px -676px;
-}
-
-i.flag.bo:before,
-i.flag.bolivia:before {
-  background-position: 0px -702px;
-}
-
-i.flag.br:before,
-i.flag.brazil:before {
-  background-position: 0px -728px;
-}
-
-i.flag.bs:before,
-i.flag.bahamas:before {
-  background-position: 0px -754px;
-}
-
-i.flag.bt:before,
-i.flag.bhutan:before {
-  background-position: 0px -780px;
-}
-
-i.flag.bv:before,
-i.flag.bouvet.island:before {
-  background-position: 0px -806px;
-}
-
-i.flag.bw:before,
-i.flag.botswana:before {
-  background-position: 0px -832px;
-}
-
-i.flag.by:before,
-i.flag.belarus:before {
-  background-position: 0px -858px;
-}
-
-i.flag.bz:before,
-i.flag.belize:before {
-  background-position: 0px -884px;
-}
-
-i.flag.ca:before,
-i.flag.canada:before {
-  background-position: 0px -910px;
-}
-
-i.flag.cc:before,
-i.flag.cocos.islands:before {
-  background-position: 0px -962px;
-}
-
-i.flag.cd:before,
-i.flag.congo:before {
-  background-position: 0px -988px;
-}
-
-i.flag.cf:before,
-i.flag.central.african.republic:before {
-  background-position: 0px -1014px;
-}
-
-i.flag.cg:before,
-i.flag.congo.brazzaville:before {
-  background-position: 0px -1040px;
-}
-
-i.flag.ch:before,
-i.flag.switzerland:before {
-  background-position: 0px -1066px;
-}
-
-i.flag.ci:before,
-i.flag.cote.divoire:before {
-  background-position: 0px -1092px;
-}
-
-i.flag.ck:before,
-i.flag.cook.islands:before {
-  background-position: 0px -1118px;
-}
-
-i.flag.cl:before,
-i.flag.chile:before {
-  background-position: 0px -1144px;
-}
-
-i.flag.cm:before,
-i.flag.cameroon:before {
-  background-position: 0px -1170px;
-}
-
-i.flag.cn:before,
-i.flag.china:before {
-  background-position: 0px -1196px;
-}
-
-i.flag.co:before,
-i.flag.colombia:before {
-  background-position: 0px -1222px;
-}
-
-i.flag.cr:before,
-i.flag.costa.rica:before {
-  background-position: 0px -1248px;
-}
-
-i.flag.cs:before,
-i.flag.serbia:before {
-  background-position: 0px -1274px;
-}
-
-i.flag.cu:before,
-i.flag.cuba:before {
-  background-position: 0px -1300px;
-}
-
-i.flag.cv:before,
-i.flag.cape.verde:before {
-  background-position: 0px -1326px;
-}
-
-i.flag.cx:before,
-i.flag.christmas.island:before {
-  background-position: 0px -1352px;
-}
-
-i.flag.cy:before,
-i.flag.cyprus:before {
-  background-position: 0px -1378px;
-}
-
-i.flag.cz:before,
-i.flag.czech.republic:before {
-  background-position: 0px -1404px;
-}
-
-i.flag.de:before,
-i.flag.germany:before {
-  background-position: 0px -1430px;
-}
-
-i.flag.dj:before,
-i.flag.djibouti:before {
-  background-position: 0px -1456px;
-}
-
-i.flag.dk:before,
-i.flag.denmark:before {
-  background-position: 0px -1482px;
-}
-
-i.flag.dm:before,
-i.flag.dominica:before {
-  background-position: 0px -1508px;
-}
-
-i.flag.do:before,
-i.flag.dominican.republic:before {
-  background-position: 0px -1534px;
-}
-
-i.flag.dz:before,
-i.flag.algeria:before {
-  background-position: 0px -1560px;
-}
-
-i.flag.ec:before,
-i.flag.ecuador:before {
-  background-position: 0px -1586px;
-}
-
-i.flag.ee:before,
-i.flag.estonia:before {
-  background-position: 0px -1612px;
-}
-
-i.flag.eg:before,
-i.flag.egypt:before {
-  background-position: 0px -1638px;
-}
-
-i.flag.eh:before,
-i.flag.western.sahara:before {
-  background-position: 0px -1664px;
-}
-
-i.flag.er:before,
-i.flag.eritrea:before {
-  background-position: 0px -1716px;
-}
-
-i.flag.es:before,
-i.flag.spain:before {
-  background-position: 0px -1742px;
-}
-
-i.flag.et:before,
-i.flag.ethiopia:before {
-  background-position: 0px -1768px;
-}
-
-i.flag.eu:before,
-i.flag.european.union:before {
-  background-position: 0px -1794px;
-}
-
-i.flag.fi:before,
-i.flag.finland:before {
-  background-position: 0px -1846px;
-}
-
-i.flag.fj:before,
-i.flag.fiji:before {
-  background-position: 0px -1872px;
-}
-
-i.flag.fk:before,
-i.flag.falkland.islands:before {
-  background-position: 0px -1898px;
-}
-
-i.flag.fm:before,
-i.flag.micronesia:before {
-  background-position: 0px -1924px;
-}
-
-i.flag.fo:before,
-i.flag.faroe.islands:before {
-  background-position: 0px -1950px;
-}
-
-i.flag.fr:before,
-i.flag.france:before {
-  background-position: 0px -1976px;
-}
-
-i.flag.ga:before,
-i.flag.gabon:before {
-  background-position: -36px 0px;
-}
-
-i.flag.gb:before,
-i.flag.united.kingdom:before {
-  background-position: -36px -26px;
-}
-
-i.flag.gd:before,
-i.flag.grenada:before {
-  background-position: -36px -52px;
-}
-
-i.flag.ge:before,
-i.flag.georgia:before {
-  background-position: -36px -78px;
-}
-
-i.flag.gf:before,
-i.flag.french.guiana:before {
-  background-position: -36px -104px;
-}
-
-i.flag.gh:before,
-i.flag.ghana:before {
-  background-position: -36px -130px;
-}
-
-i.flag.gi:before,
-i.flag.gibraltar:before {
-  background-position: -36px -156px;
-}
-
-i.flag.gl:before,
-i.flag.greenland:before {
-  background-position: -36px -182px;
-}
-
-i.flag.gm:before,
-i.flag.gambia:before {
-  background-position: -36px -208px;
-}
-
-i.flag.gn:before,
-i.flag.guinea:before {
-  background-position: -36px -234px;
-}
-
-i.flag.gp:before,
-i.flag.guadeloupe:before {
-  background-position: -36px -260px;
-}
-
-i.flag.gq:before,
-i.flag.equatorial.guinea:before {
-  background-position: -36px -286px;
-}
-
-i.flag.gr:before,
-i.flag.greece:before {
-  background-position: -36px -312px;
-}
-
-i.flag.gs:before,
-i.flag.sandwich.islands:before {
-  background-position: -36px -338px;
-}
-
-i.flag.gt:before,
-i.flag.guatemala:before {
-  background-position: -36px -364px;
-}
-
-i.flag.gu:before,
-i.flag.guam:before {
-  background-position: -36px -390px;
-}
-
-i.flag.gw:before,
-i.flag.guinea-bissau:before {
-  background-position: -36px -416px;
-}
-
-i.flag.gy:before,
-i.flag.guyana:before {
-  background-position: -36px -442px;
-}
-
-i.flag.hk:before,
-i.flag.hong.kong:before {
-  background-position: -36px -468px;
-}
-
-i.flag.hm:before,
-i.flag.heard.island:before {
-  background-position: -36px -494px;
-}
-
-i.flag.hn:before,
-i.flag.honduras:before {
-  background-position: -36px -520px;
-}
-
-i.flag.hr:before,
-i.flag.croatia:before {
-  background-position: -36px -546px;
-}
-
-i.flag.ht:before,
-i.flag.haiti:before {
-  background-position: -36px -572px;
-}
-
-i.flag.hu:before,
-i.flag.hungary:before {
-  background-position: -36px -598px;
-}
-
-i.flag.id:before,
-i.flag.indonesia:before {
-  background-position: -36px -624px;
-}
-
-i.flag.ie:before,
-i.flag.ireland:before {
-  background-position: -36px -650px;
-}
-
-i.flag.il:before,
-i.flag.israel:before {
-  background-position: -36px -676px;
-}
-
-i.flag.in:before,
-i.flag.india:before {
-  background-position: -36px -702px;
-}
-
-i.flag.io:before,
-i.flag.indian.ocean.territory:before {
-  background-position: -36px -728px;
-}
-
-i.flag.iq:before,
-i.flag.iraq:before {
-  background-position: -36px -754px;
-}
-
-i.flag.ir:before,
-i.flag.iran:before {
-  background-position: -36px -780px;
-}
-
-i.flag.is:before,
-i.flag.iceland:before {
-  background-position: -36px -806px;
-}
-
-i.flag.it:before,
-i.flag.italy:before {
-  background-position: -36px -832px;
-}
-
-i.flag.jm:before,
-i.flag.jamaica:before {
-  background-position: -36px -858px;
-}
-
-i.flag.jo:before,
-i.flag.jordan:before {
-  background-position: -36px -884px;
-}
-
-i.flag.jp:before,
-i.flag.japan:before {
-  background-position: -36px -910px;
-}
-
-i.flag.ke:before,
-i.flag.kenya:before {
-  background-position: -36px -936px;
-}
-
-i.flag.kg:before,
-i.flag.kyrgyzstan:before {
-  background-position: -36px -962px;
-}
-
-i.flag.kh:before,
-i.flag.cambodia:before {
-  background-position: -36px -988px;
-}
-
-i.flag.ki:before,
-i.flag.kiribati:before {
-  background-position: -36px -1014px;
-}
-
-i.flag.km:before,
-i.flag.comoros:before {
-  background-position: -36px -1040px;
-}
-
-i.flag.kn:before,
-i.flag.saint.kitts.and.nevis:before {
-  background-position: -36px -1066px;
-}
-
-i.flag.kp:before,
-i.flag.north.korea:before {
-  background-position: -36px -1092px;
-}
-
-i.flag.kr:before,
-i.flag.south.korea:before {
-  background-position: -36px -1118px;
-}
-
-i.flag.kw:before,
-i.flag.kuwait:before {
-  background-position: -36px -1144px;
-}
-
-i.flag.ky:before,
-i.flag.cayman.islands:before {
-  background-position: -36px -1170px;
-}
-
-i.flag.kz:before,
-i.flag.kazakhstan:before {
-  background-position: -36px -1196px;
-}
-
-i.flag.la:before,
-i.flag.laos:before {
-  background-position: -36px -1222px;
-}
-
-i.flag.lb:before,
-i.flag.lebanon:before {
-  background-position: -36px -1248px;
-}
-
-i.flag.lc:before,
-i.flag.saint.lucia:before {
-  background-position: -36px -1274px;
-}
-
-i.flag.li:before,
-i.flag.liechtenstein:before {
-  background-position: -36px -1300px;
-}
-
-i.flag.lk:before,
-i.flag.sri.lanka:before {
-  background-position: -36px -1326px;
-}
-
-i.flag.lr:before,
-i.flag.liberia:before {
-  background-position: -36px -1352px;
-}
-
-i.flag.ls:before,
-i.flag.lesotho:before {
-  background-position: -36px -1378px;
-}
-
-i.flag.lt:before,
-i.flag.lithuania:before {
-  background-position: -36px -1404px;
-}
-
-i.flag.lu:before,
-i.flag.luxembourg:before {
-  background-position: -36px -1430px;
-}
-
-i.flag.lv:before,
-i.flag.latvia:before {
-  background-position: -36px -1456px;
-}
-
-i.flag.ly:before,
-i.flag.libya:before {
-  background-position: -36px -1482px;
-}
-
-i.flag.ma:before,
-i.flag.morocco:before {
-  background-position: -36px -1508px;
-}
-
-i.flag.mc:before,
-i.flag.monaco:before {
-  background-position: -36px -1534px;
-}
-
-i.flag.md:before,
-i.flag.moldova:before {
-  background-position: -36px -1560px;
-}
-
-i.flag.me:before,
-i.flag.montenegro:before {
-  background-position: -36px -1586px;
-}
-
-i.flag.mg:before,
-i.flag.madagascar:before {
-  background-position: -36px -1613px;
-}
-
-i.flag.mh:before,
-i.flag.marshall.islands:before {
-  background-position: -36px -1639px;
-}
-
-i.flag.mk:before,
-i.flag.macedonia:before {
-  background-position: -36px -1665px;
-}
-
-i.flag.ml:before,
-i.flag.mali:before {
-  background-position: -36px -1691px;
-}
-
-i.flag.mm:before,
-i.flag.myanmar:before,
-i.flag.burma:before {
-  background-position: -73px -1821px;
-}
-
-i.flag.mn:before,
-i.flag.mongolia:before {
-  background-position: -36px -1743px;
-}
-
-i.flag.mo:before,
-i.flag.macau:before {
-  background-position: -36px -1769px;
-}
-
-i.flag.mp:before,
-i.flag.northern.mariana.islands:before {
-  background-position: -36px -1795px;
-}
-
-i.flag.mq:before,
-i.flag.martinique:before {
-  background-position: -36px -1821px;
-}
-
-i.flag.mr:before,
-i.flag.mauritania:before {
-  background-position: -36px -1847px;
-}
-
-i.flag.ms:before,
-i.flag.montserrat:before {
-  background-position: -36px -1873px;
-}
-
-i.flag.mt:before,
-i.flag.malta:before {
-  background-position: -36px -1899px;
-}
-
-i.flag.mu:before,
-i.flag.mauritius:before {
-  background-position: -36px -1925px;
-}
-
-i.flag.mv:before,
-i.flag.maldives:before {
-  background-position: -36px -1951px;
-}
-
-i.flag.mw:before,
-i.flag.malawi:before {
-  background-position: -36px -1977px;
-}
-
-i.flag.mx:before,
-i.flag.mexico:before {
-  background-position: -72px 0px;
-}
-
-i.flag.my:before,
-i.flag.malaysia:before {
-  background-position: -72px -26px;
-}
-
-i.flag.mz:before,
-i.flag.mozambique:before {
-  background-position: -72px -52px;
-}
-
-i.flag.na:before,
-i.flag.namibia:before {
-  background-position: -72px -78px;
-}
-
-i.flag.nc:before,
-i.flag.new.caledonia:before {
-  background-position: -72px -104px;
-}
-
-i.flag.ne:before,
-i.flag.niger:before {
-  background-position: -72px -130px;
-}
-
-i.flag.nf:before,
-i.flag.norfolk.island:before {
-  background-position: -72px -156px;
-}
-
-i.flag.ng:before,
-i.flag.nigeria:before {
-  background-position: -72px -182px;
-}
-
-i.flag.ni:before,
-i.flag.nicaragua:before {
-  background-position: -72px -208px;
-}
-
-i.flag.nl:before,
-i.flag.netherlands:before {
-  background-position: -72px -234px;
-}
-
-i.flag.no:before,
-i.flag.norway:before {
-  background-position: -72px -260px;
-}
-
-i.flag.np:before,
-i.flag.nepal:before {
-  background-position: -72px -286px;
-}
-
-i.flag.nr:before,
-i.flag.nauru:before {
-  background-position: -72px -312px;
-}
-
-i.flag.nu:before,
-i.flag.niue:before {
-  background-position: -72px -338px;
-}
-
-i.flag.nz:before,
-i.flag.new.zealand:before {
-  background-position: -72px -364px;
-}
-
-i.flag.om:before,
-i.flag.oman:before {
-  background-position: -72px -390px;
-}
-
-i.flag.pa:before,
-i.flag.panama:before {
-  background-position: -72px -416px;
-}
-
-i.flag.pe:before,
-i.flag.peru:before {
-  background-position: -72px -442px;
-}
-
-i.flag.pf:before,
-i.flag.french.polynesia:before {
-  background-position: -72px -468px;
-}
-
-i.flag.pg:before,
-i.flag.new.guinea:before {
-  background-position: -72px -494px;
-}
-
-i.flag.ph:before,
-i.flag.philippines:before {
-  background-position: -72px -520px;
-}
-
-i.flag.pk:before,
-i.flag.pakistan:before {
-  background-position: -72px -546px;
-}
-
-i.flag.pl:before,
-i.flag.poland:before {
-  background-position: -72px -572px;
-}
-
-i.flag.pm:before,
-i.flag.saint.pierre:before {
-  background-position: -72px -598px;
-}
-
-i.flag.pn:before,
-i.flag.pitcairn.islands:before {
-  background-position: -72px -624px;
-}
-
-i.flag.pr:before,
-i.flag.puerto.rico:before {
-  background-position: -72px -650px;
-}
-
-i.flag.ps:before,
-i.flag.palestine:before {
-  background-position: -72px -676px;
-}
-
-i.flag.pt:before,
-i.flag.portugal:before {
-  background-position: -72px -702px;
-}
-
-i.flag.pw:before,
-i.flag.palau:before {
-  background-position: -72px -728px;
-}
-
-i.flag.py:before,
-i.flag.paraguay:before {
-  background-position: -72px -754px;
-}
-
-i.flag.qa:before,
-i.flag.qatar:before {
-  background-position: -72px -780px;
-}
-
-i.flag.re:before,
-i.flag.reunion:before {
-  background-position: -72px -806px;
-}
-
-i.flag.ro:before,
-i.flag.romania:before {
-  background-position: -72px -832px;
-}
-
-i.flag.rs:before,
-i.flag.serbia:before {
-  background-position: -72px -858px;
-}
-
-i.flag.ru:before,
-i.flag.russia:before {
-  background-position: -72px -884px;
-}
-
-i.flag.rw:before,
-i.flag.rwanda:before {
-  background-position: -72px -910px;
-}
-
-i.flag.sa:before,
-i.flag.saudi.arabia:before {
-  background-position: -72px -936px;
-}
-
-i.flag.sb:before,
-i.flag.solomon.islands:before {
-  background-position: -72px -962px;
-}
-
-i.flag.sc:before,
-i.flag.seychelles:before {
-  background-position: -72px -988px;
-}
-
-i.flag.gb.sct:before,
-i.flag.scotland:before {
-  background-position: -72px -1014px;
-}
-
-i.flag.sd:before,
-i.flag.sudan:before {
-  background-position: -72px -1040px;
-}
-
-i.flag.se:before,
-i.flag.sweden:before {
-  background-position: -72px -1066px;
-}
-
-i.flag.sg:before,
-i.flag.singapore:before {
-  background-position: -72px -1092px;
-}
-
-i.flag.sh:before,
-i.flag.saint.helena:before {
-  background-position: -72px -1118px;
-}
-
-i.flag.si:before,
-i.flag.slovenia:before {
-  background-position: -72px -1144px;
-}
-
-i.flag.sj:before,
-i.flag.svalbard:before,
-i.flag.jan.mayen:before {
-  background-position: -72px -1170px;
-}
-
-i.flag.sk:before,
-i.flag.slovakia:before {
-  background-position: -72px -1196px;
-}
-
-i.flag.sl:before,
-i.flag.sierra.leone:before {
-  background-position: -72px -1222px;
-}
-
-i.flag.sm:before,
-i.flag.san.marino:before {
-  background-position: -72px -1248px;
-}
-
-i.flag.sn:before,
-i.flag.senegal:before {
-  background-position: -72px -1274px;
-}
-
-i.flag.so:before,
-i.flag.somalia:before {
-  background-position: -72px -1300px;
-}
-
-i.flag.sr:before,
-i.flag.suriname:before {
-  background-position: -72px -1326px;
-}
-
-i.flag.st:before,
-i.flag.sao.tome:before {
-  background-position: -72px -1352px;
-}
-
-i.flag.sv:before,
-i.flag.el.salvador:before {
-  background-position: -72px -1378px;
-}
-
-i.flag.sy:before,
-i.flag.syria:before {
-  background-position: -72px -1404px;
-}
-
-i.flag.sz:before,
-i.flag.swaziland:before {
-  background-position: -72px -1430px;
-}
-
-i.flag.tc:before,
-i.flag.caicos.islands:before {
-  background-position: -72px -1456px;
-}
-
-i.flag.td:before,
-i.flag.chad:before {
-  background-position: -72px -1482px;
-}
-
-i.flag.tf:before,
-i.flag.french.territories:before {
-  background-position: -72px -1508px;
-}
-
-i.flag.tg:before,
-i.flag.togo:before {
-  background-position: -72px -1534px;
-}
-
-i.flag.th:before,
-i.flag.thailand:before {
-  background-position: -72px -1560px;
-}
-
-i.flag.tj:before,
-i.flag.tajikistan:before {
-  background-position: -72px -1586px;
-}
-
-i.flag.tk:before,
-i.flag.tokelau:before {
-  background-position: -72px -1612px;
-}
-
-i.flag.tl:before,
-i.flag.timorleste:before {
-  background-position: -72px -1638px;
-}
-
-i.flag.tm:before,
-i.flag.turkmenistan:before {
-  background-position: -72px -1664px;
-}
-
-i.flag.tn:before,
-i.flag.tunisia:before {
-  background-position: -72px -1690px;
-}
-
-i.flag.to:before,
-i.flag.tonga:before {
-  background-position: -72px -1716px;
-}
-
-i.flag.tr:before,
-i.flag.turkey:before {
-  background-position: -72px -1742px;
-}
-
-i.flag.tt:before,
-i.flag.trinidad:before {
-  background-position: -72px -1768px;
-}
-
-i.flag.tv:before,
-i.flag.tuvalu:before {
-  background-position: -72px -1794px;
-}
-
-i.flag.tw:before,
-i.flag.taiwan:before {
-  background-position: -72px -1820px;
-}
-
-i.flag.tz:before,
-i.flag.tanzania:before {
-  background-position: -72px -1846px;
-}
-
-i.flag.ua:before,
-i.flag.ukraine:before {
-  background-position: -72px -1872px;
-}
-
-i.flag.ug:before,
-i.flag.uganda:before {
-  background-position: -72px -1898px;
-}
-
-i.flag.um:before,
-i.flag.us.minor.islands:before {
-  background-position: -72px -1924px;
-}
-
-i.flag.us:before,
-i.flag.america:before,
-i.flag.united.states:before {
-  background-position: -72px -1950px;
-}
-
-i.flag.uy:before,
-i.flag.uruguay:before {
-  background-position: -72px -1976px;
-}
-
-i.flag.uz:before,
-i.flag.uzbekistan:before {
-  background-position: -108px 0px;
-}
-
-i.flag.va:before,
-i.flag.vatican.city:before {
-  background-position: -108px -26px;
-}
-
-i.flag.vc:before,
-i.flag.saint.vincent:before {
-  background-position: -108px -52px;
-}
-
-i.flag.ve:before,
-i.flag.venezuela:before {
-  background-position: -108px -78px;
-}
-
-i.flag.vg:before,
-i.flag.british.virgin.islands:before {
-  background-position: -108px -104px;
-}
-
-i.flag.vi:before,
-i.flag.us.virgin.islands:before {
-  background-position: -108px -130px;
-}
-
-i.flag.vn:before,
-i.flag.vietnam:before {
-  background-position: -108px -156px;
-}
-
-i.flag.vu:before,
-i.flag.vanuatu:before {
-  background-position: -108px -182px;
-}
-
-i.flag.gb.wls:before,
-i.flag.wales:before {
-  background-position: -108px -208px;
-}
-
-i.flag.wf:before,
-i.flag.wallis.and.futuna:before {
-  background-position: -108px -234px;
-}
-
-i.flag.ws:before,
-i.flag.samoa:before {
-  background-position: -108px -260px;
-}
-
-i.flag.ye:before,
-i.flag.yemen:before {
-  background-position: -108px -286px;
-}
-
-i.flag.yt:before,
-i.flag.mayotte:before {
-  background-position: -108px -312px;
-}
-
-i.flag.za:before,
-i.flag.south.africa:before {
-  background-position: -108px -338px;
-}
-
-i.flag.zm:before,
-i.flag.zambia:before {
-  background-position: -108px -364px;
-}
-
-i.flag.zw:before,
-i.flag.zimbabwe:before {
-  background-position: -108px -390px;
-}
-
-/*******************************
-         Site Overrides
-*******************************/
-/*!
  * # Semantic UI 2.2.9 - Header
  * http://github.com/semantic-org/semantic-ui/
  *
@@ -6692,15 +5421,15 @@ a.ui.inverted.red.header:hover {
 /*--- Orange ---*/
 
 .ui.orange.header {
-  color: #F3A530 !important;
+  color: #FDC167 !important;
 }
 
 a.ui.orange.header:hover {
-  color: #fc9d0d !important;
+  color: #ffb74b !important;
 }
 
 .ui.orange.dividing.header {
-  border-bottom: 2px solid #F3A530;
+  border-bottom: 2px solid #FDC167;
 }
 
 /* Inverted */
@@ -6788,15 +5517,15 @@ a.ui.inverted.green.header:hover {
 /*--- Teal ---*/
 
 .ui.teal.header {
-  color: #4CB2D4 !important;
+  color: #76C6DE !important;
 }
 
 a.ui.teal.header:hover {
-  color: #30add7 !important;
+  color: #5bc1df !important;
 }
 
 .ui.teal.dividing.header {
-  border-bottom: 2px solid #4CB2D4;
+  border-bottom: 2px solid #76C6DE;
 }
 
 /* Inverted */
@@ -6812,15 +5541,15 @@ a.ui.inverted.teal.header:hover {
 /*--- Blue ---*/
 
 .ui.blue.header {
-  color: #2185D0 !important;
+  color: #105170 !important;
 }
 
 a.ui.blue.header:hover {
-  color: #1678c2 !important;
+  color: #09425e !important;
 }
 
 .ui.blue.dividing.header {
-  border-bottom: 2px solid #2185D0;
+  border-bottom: 2px solid #105170;
 }
 
 /* Inverted */
@@ -7374,7 +6103,7 @@ i.inverted.circular.red.icon {
 /* Orange */
 
 i.orange.icon {
-  color: #F3A530 !important;
+  color: #FDC167 !important;
 }
 
 i.inverted.orange.icon {
@@ -7383,7 +6112,7 @@ i.inverted.orange.icon {
 
 i.inverted.bordered.orange.icon,
 i.inverted.circular.orange.icon {
-  background-color: #F3A530 !important;
+  background-color: #FDC167 !important;
   color: #FFFFFF !important;
 }
 
@@ -7438,7 +6167,7 @@ i.inverted.circular.green.icon {
 /* Teal */
 
 i.teal.icon {
-  color: #4CB2D4 !important;
+  color: #76C6DE !important;
 }
 
 i.inverted.teal.icon {
@@ -7447,14 +6176,14 @@ i.inverted.teal.icon {
 
 i.inverted.bordered.teal.icon,
 i.inverted.circular.teal.icon {
-  background-color: #4CB2D4 !important;
+  background-color: #76C6DE !important;
   color: #FFFFFF !important;
 }
 
 /* Blue */
 
 i.blue.icon {
-  color: #2185D0 !important;
+  color: #105170 !important;
 }
 
 i.inverted.blue.icon {
@@ -7463,7 +6192,7 @@ i.inverted.blue.icon {
 
 i.inverted.bordered.blue.icon,
 i.inverted.circular.blue.icon {
-  background-color: #2185D0 !important;
+  background-color: #105170 !important;
   color: #FFFFFF !important;
 }
 
@@ -12856,8 +11585,8 @@ a.ui.basic.red.label:hover {
 
 .ui.orange.labels .label,
 .ui.orange.label {
-  background-color: #F3A530 !important;
-  border-color: #F3A530 !important;
+  background-color: #FDC167 !important;
+  border-color: #FDC167 !important;
   color: #FFFFFF !important;
 }
 
@@ -12865,8 +11594,8 @@ a.ui.basic.red.label:hover {
 
 .ui.orange.labels .label:hover,
 a.ui.orange.label:hover {
-  background-color: #fc9d0d !important;
-  border-color: #fc9d0d !important;
+  background-color: #ffb74b !important;
+  border-color: #ffb74b !important;
   color: #FFFFFF !important;
 }
 
@@ -12880,22 +11609,22 @@ a.ui.orange.label:hover {
 /* Ribbon */
 
 .ui.orange.ribbon.label {
-  border-color: #e38d0d !important;
+  border-color: #fcac35 !important;
 }
 
 /* Basic */
 
 .ui.basic.orange.label {
   background-color: #FFFFFF !important;
-  color: #F3A530 !important;
-  border-color: #F3A530 !important;
+  color: #FDC167 !important;
+  border-color: #FDC167 !important;
 }
 
 .ui.basic.orange.labels a.label:hover,
 a.ui.basic.orange.label:hover {
   background-color: #FFFFFF !important;
-  color: #fc9d0d !important;
-  border-color: #fc9d0d !important;
+  color: #ffb74b !important;
+  border-color: #ffb74b !important;
 }
 
 /*--- Yellow ---*/
@@ -13040,8 +11769,8 @@ a.ui.basic.green.label:hover {
 
 .ui.teal.labels .label,
 .ui.teal.label {
-  background-color: #4CB2D4 !important;
-  border-color: #4CB2D4 !important;
+  background-color: #76C6DE !important;
+  border-color: #76C6DE !important;
   color: #FFFFFF !important;
 }
 
@@ -13049,8 +11778,8 @@ a.ui.basic.green.label:hover {
 
 .ui.teal.labels .label:hover,
 a.ui.teal.label:hover {
-  background-color: #30add7 !important;
-  border-color: #30add7 !important;
+  background-color: #5bc1df !important;
+  border-color: #5bc1df !important;
   color: #FFFFFF !important;
 }
 
@@ -13064,30 +11793,30 @@ a.ui.teal.label:hover {
 /* Ribbon */
 
 .ui.teal.ribbon.label {
-  border-color: #2e9bbf !important;
+  border-color: #4db5d4 !important;
 }
 
 /* Basic */
 
 .ui.basic.teal.label {
   background-color: #FFFFFF !important;
-  color: #4CB2D4 !important;
-  border-color: #4CB2D4 !important;
+  color: #76C6DE !important;
+  border-color: #76C6DE !important;
 }
 
 .ui.basic.teal.labels a.label:hover,
 a.ui.basic.teal.label:hover {
   background-color: #FFFFFF !important;
-  color: #30add7 !important;
-  border-color: #30add7 !important;
+  color: #5bc1df !important;
+  border-color: #5bc1df !important;
 }
 
 /*--- Blue ---*/
 
 .ui.blue.labels .label,
 .ui.blue.label {
-  background-color: #2185D0 !important;
-  border-color: #2185D0 !important;
+  background-color: #105170 !important;
+  border-color: #105170 !important;
   color: #FFFFFF !important;
 }
 
@@ -13095,8 +11824,8 @@ a.ui.basic.teal.label:hover {
 
 .ui.blue.labels .label:hover,
 a.ui.blue.label:hover {
-  background-color: #1678c2 !important;
-  border-color: #1678c2 !important;
+  background-color: #09425e !important;
+  border-color: #09425e !important;
   color: #FFFFFF !important;
 }
 
@@ -13110,22 +11839,22 @@ a.ui.blue.label:hover {
 /* Ribbon */
 
 .ui.blue.ribbon.label {
-  border-color: #1a69a4 !important;
+  border-color: #0a3143 !important;
 }
 
 /* Basic */
 
 .ui.basic.blue.label {
   background-color: #FFFFFF !important;
-  color: #2185D0 !important;
-  border-color: #2185D0 !important;
+  color: #105170 !important;
+  border-color: #105170 !important;
 }
 
 .ui.basic.blue.labels a.label:hover,
 a.ui.basic.blue.label:hover {
   background-color: #FFFFFF !important;
-  color: #1678c2 !important;
-  border-color: #1678c2 !important;
+  color: #09425e !important;
+  border-color: #09425e !important;
 }
 
 /*--- Violet ---*/
@@ -16166,11 +14895,11 @@ ol.ui.horizontal.list li:before,
 /* Orange */
 
 .ui.orange.segment:not(.inverted) {
-  border-top: 2px solid #F3A530;
+  border-top: 2px solid #FDC167;
 }
 
 .ui.inverted.orange.segment {
-  background-color: #F3A530 !important;
+  background-color: #FDC167 !important;
   color: #FFFFFF !important;
 }
 
@@ -16210,22 +14939,22 @@ ol.ui.horizontal.list li:before,
 /* Teal */
 
 .ui.teal.segment:not(.inverted) {
-  border-top: 2px solid #4CB2D4;
+  border-top: 2px solid #76C6DE;
 }
 
 .ui.inverted.teal.segment {
-  background-color: #4CB2D4 !important;
+  background-color: #76C6DE !important;
   color: #FFFFFF !important;
 }
 
 /* Blue */
 
 .ui.blue.segment:not(.inverted) {
-  border-top: 2px solid #2185D0;
+  border-top: 2px solid #105170;
 }
 
 .ui.inverted.blue.segment {
-  background-color: #2185D0 !important;
+  background-color: #105170 !important;
   color: #FFFFFF !important;
 }
 
@@ -20000,7 +18729,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .orange.row,
 .ui.grid > .orange.column,
 .ui.grid > .row > .orange.column {
-  background-color: #F3A530 !important;
+  background-color: #FDC167 !important;
   color: #FFFFFF;
 }
 
@@ -20036,7 +18765,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .teal.row,
 .ui.grid > .teal.column,
 .ui.grid > .row > .teal.column {
-  background-color: #4CB2D4 !important;
+  background-color: #76C6DE !important;
   color: #FFFFFF;
 }
 
@@ -20045,7 +18774,7 @@ ol.ui.horizontal.list li:before,
 .ui.grid > .blue.row,
 .ui.grid > .blue.column,
 .ui.grid > .row > .blue.column {
-  background-color: #2185D0 !important;
+  background-color: #105170 !important;
   color: #FFFFFF;
 }
 
@@ -22155,8 +20884,8 @@ Floated Menu / Item
 
 .ui.menu .orange.active.item,
 .ui.orange.menu .active.item {
-  border-color: #F3A530 !important;
-  color: #F3A530 !important;
+  border-color: #FDC167 !important;
+  color: #FDC167 !important;
 }
 
 .ui.menu .yellow.active.item,
@@ -22179,14 +20908,14 @@ Floated Menu / Item
 
 .ui.menu .teal.active.item,
 .ui.teal.menu .active.item {
-  border-color: #4CB2D4 !important;
-  color: #4CB2D4 !important;
+  border-color: #76C6DE !important;
+  color: #76C6DE !important;
 }
 
 .ui.menu .blue.active.item,
 .ui.blue.menu .active.item {
-  border-color: #2185D0 !important;
-  color: #2185D0 !important;
+  border-color: #105170 !important;
+  color: #105170 !important;
 }
 
 .ui.menu .violet.active.item,
@@ -22368,7 +21097,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .orange.active.item,
 .ui.inverted.orange.menu {
-  background-color: #F3A530;
+  background-color: #FDC167;
 }
 
 .ui.inverted.orange.menu .item:before {
@@ -22428,7 +21157,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .teal.active.item,
 .ui.inverted.teal.menu {
-  background-color: #4CB2D4;
+  background-color: #76C6DE;
 }
 
 .ui.inverted.teal.menu .item:before {
@@ -22443,7 +21172,7 @@ Floated Menu / Item
 
 .ui.inverted.menu .blue.active.item,
 .ui.inverted.blue.menu {
-  background-color: #2185D0;
+  background-color: #105170;
 }
 
 .ui.inverted.blue.menu .item:before {
@@ -23387,12 +22116,12 @@ Floated Menu / Item
 
 .ui.orange.message {
   background-color: #FFEDDE;
-  color: #F3A530;
-  box-shadow: 0px 0px 0px 1px #F3A530 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #FDC167;
+  box-shadow: 0px 0px 0px 1px #FDC167 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 .ui.orange.message .header {
-  color: #f29b18;
+  color: #fdb74e;
 }
 
 .ui.yellow.message {
@@ -23437,12 +22166,12 @@ Floated Menu / Item
 
 .ui.blue.message {
   background-color: #DFF0FF;
-  color: #2185D0;
-  box-shadow: 0px 0px 0px 1px #2185D0 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #105170;
+  box-shadow: 0px 0px 0px 1px #105170 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 
 .ui.blue.message .header {
-  color: #1e77ba;
+  color: #0d415a;
 }
 
 .ui.violet.message {
@@ -24223,11 +22952,11 @@ Floated Menu / Item
 /* Orange */
 
 .ui.orange.table {
-  border-top: 0.2em solid #F3A530;
+  border-top: 0.2em solid #FDC167;
 }
 
 .ui.inverted.orange.table {
-  background-color: #F3A530 !important;
+  background-color: #FDC167 !important;
   color: #FFFFFF !important;
 }
 
@@ -24267,22 +22996,22 @@ Floated Menu / Item
 /* Teal */
 
 .ui.teal.table {
-  border-top: 0.2em solid #4CB2D4;
+  border-top: 0.2em solid #76C6DE;
 }
 
 .ui.inverted.teal.table {
-  background-color: #4CB2D4 !important;
+  background-color: #76C6DE !important;
   color: #FFFFFF !important;
 }
 
 /* Blue */
 
 .ui.blue.table {
-  border-top: 0.2em solid #2185D0;
+  border-top: 0.2em solid #105170;
 }
 
 .ui.inverted.blue.table {
-  background-color: #2185D0 !important;
+  background-color: #105170 !important;
   color: #FFFFFF !important;
 }
 
@@ -25115,8 +23844,8 @@ Floated Menu / Item
   background: #FFFFFF;
   padding: 0em;
   border: none;
-  border-radius: 0.28571429rem;
-  box-shadow: 0px 1px 3px 0px #D4D4D5, 0px 0px 0px 1px #D4D4D5;
+  border-radius: 4px;
+  box-shadow: 0px 0em 3px 0px #D4D4D5, 0px 0px 0px 1px #D4D4D5;
   -webkit-transition: box-shadow 0.1s ease, -webkit-transform 0.1s ease;
   transition: box-shadow 0.1s ease, -webkit-transform 0.1s ease;
   transition: box-shadow 0.1s ease, transform 0.1s ease;
@@ -25186,18 +23915,18 @@ Floated Menu / Item
 
 .ui.cards > .card > :first-child,
 .ui.card > :first-child {
-  border-radius: 0.28571429rem 0.28571429rem 0em 0em !important;
+  border-radius: 4px 4px 0em 0em !important;
   border-top: none !important;
 }
 
 .ui.cards > .card > :last-child,
 .ui.card > :last-child {
-  border-radius: 0em 0em 0.28571429rem 0.28571429rem !important;
+  border-radius: 0em 0em 4px 4px !important;
 }
 
 .ui.cards > .card > :only-child,
 .ui.card > :only-child {
-  border-radius: 0.28571429rem !important;
+  border-radius: 4px !important;
 }
 
 /*--------------
@@ -25261,7 +23990,7 @@ Floated Menu / Item
 .ui.card > .content > .header {
   display: block;
   margin: '';
-  font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  font-family: 'Roboto', 'Helvetica Neue', Arial, Helvetica, sans-serif;
   color: rgba(0, 0, 0, 0.85);
 }
 
@@ -25271,8 +24000,8 @@ Floated Menu / Item
 .ui.card > .content > .header:not(.ui) {
   font-weight: bold;
   font-size: 1.28571429em;
-  margin-top: -0.21425em;
-  line-height: 1.28571429em;
+  margin-top: -0.165em;
+  line-height: 1.33em;
 }
 
 .ui.cards > .card > .content > .meta + .description,
@@ -25412,7 +24141,7 @@ Floated Menu / Item
 
 .ui.cards > .card > .content > a.header:hover,
 .ui.card > .content > a.header:hover {
-  color: #1e70bf;
+  color: #00b2f3;
 }
 
 /* Meta */
@@ -25424,7 +24153,7 @@ Floated Menu / Item
 
 .ui.cards > .card .meta > a:not(.ui):hover,
 .ui.card .meta > a:not(.ui):hover {
-  color: rgba(0, 0, 0, 0.87);
+  color: #212121;
 }
 
 /*--------------
@@ -25512,14 +24241,15 @@ Floated Menu / Item
   flex-grow: 0;
   border-top: 1px solid rgba(0, 0, 0, 0.05) !important;
   position: static;
-  background: none;
+  background: #FAFAFA -webkit-linear-gradient(transparent, rgba(0, 0, 0, 0.05));
+  background: #FAFAFA linear-gradient(transparent, rgba(0, 0, 0, 0.05));
   width: auto;
   margin: 0em 0em;
   padding: 0.75em 1em;
   top: 0em;
   left: 0em;
   color: rgba(0, 0, 0, 0.4);
-  box-shadow: none;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
   -webkit-transition: color 0.1s ease;
   transition: color 0.1s ease;
 }
@@ -25531,7 +24261,7 @@ Floated Menu / Item
 
 .ui.cards > .card > .extra a:not(.ui):hover,
 .ui.card > .extra a:not(.ui):hover {
-  color: #1e70bf;
+  color: #00b2f3;
 }
 
 /*******************************
@@ -25603,7 +24333,7 @@ a.ui.card:hover,
   z-index: 5;
   background: #FFFFFF;
   border: none;
-  box-shadow: 0px 1px 3px 0px #BCBDBD, 0px 0px 0px 1px #D4D4D5;
+  box-shadow: 0px 0em 3px 0px #BCBDBD, 0px 0px 0px 1px #D4D4D5;
   -webkit-transform: translateY(-3px);
   transform: translateY(-3px);
 }
@@ -25617,13 +24347,13 @@ a.ui.card:hover,
 .ui.red.cards > .card,
 .ui.cards > .red.card,
 .ui.red.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #EE4035, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #EE4035, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.red.cards > .card:hover,
 .ui.cards > .red.card:hover,
 .ui.red.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #f62113, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #f62113, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Orange */
@@ -25631,13 +24361,13 @@ a.ui.card:hover,
 .ui.orange.cards > .card,
 .ui.cards > .orange.card,
 .ui.orange.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #F3A530, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #FDC167, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.orange.cards > .card:hover,
 .ui.cards > .orange.card:hover,
 .ui.orange.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #fc9d0d, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ffb74b, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Yellow */
@@ -25645,13 +24375,13 @@ a.ui.card:hover,
 .ui.yellow.cards > .card,
 .ui.cards > .yellow.card,
 .ui.yellow.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #FBBD08, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #FFEB3B, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.yellow.cards > .card:hover,
 .ui.cards > .yellow.card:hover,
 .ui.yellow.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #eaae00, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ffe821, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Olive */
@@ -25659,13 +24389,13 @@ a.ui.card:hover,
 .ui.olive.cards > .card,
 .ui.cards > .olive.card,
 .ui.olive.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #B5CC18, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #B5CC18, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.olive.cards > .card:hover,
 .ui.cards > .olive.card:hover,
 .ui.olive.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #a7bd0d, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #a7bd0d, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Green */
@@ -25673,13 +24403,13 @@ a.ui.card:hover,
 .ui.green.cards > .card,
 .ui.cards > .green.card,
 .ui.green.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #a3d749, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #a3d749, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.green.cards > .card:hover,
 .ui.cards > .green.card:hover,
 .ui.green.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9bda2c, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9bda2c, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Teal */
@@ -25687,13 +24417,13 @@ a.ui.card:hover,
 .ui.teal.cards > .card,
 .ui.cards > .teal.card,
 .ui.teal.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #4CB2D4, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #76C6DE, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.teal.cards > .card:hover,
 .ui.cards > .teal.card:hover,
 .ui.teal.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #30add7, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #5bc1df, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Blue */
@@ -25701,13 +24431,13 @@ a.ui.card:hover,
 .ui.blue.cards > .card,
 .ui.cards > .blue.card,
 .ui.blue.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #2185D0, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #105170, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.blue.cards > .card:hover,
 .ui.cards > .blue.card:hover,
 .ui.blue.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #1678c2, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #09425e, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Violet */
@@ -25715,13 +24445,13 @@ a.ui.card:hover,
 .ui.violet.cards > .card,
 .ui.cards > .violet.card,
 .ui.violet.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #6435C9, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #6435C9, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.violet.cards > .card:hover,
 .ui.cards > .violet.card:hover,
 .ui.violet.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #5829bb, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #5829bb, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Purple */
@@ -25729,13 +24459,13 @@ a.ui.card:hover,
 .ui.purple.cards > .card,
 .ui.cards > .purple.card,
 .ui.purple.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #A333C8, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9C27B0, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.purple.cards > .card:hover,
 .ui.cards > .purple.card:hover,
 .ui.purple.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9627ba, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #8e1ca1, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Pink */
@@ -25743,13 +24473,13 @@ a.ui.card:hover,
 .ui.pink.cards > .card,
 .ui.cards > .pink.card,
 .ui.pink.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #E03997, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #E91E63, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.pink.cards > .card:hover,
 .ui.cards > .pink.card:hover,
 .ui.pink.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #e61a8d, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #e20b54, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Brown */
@@ -25757,13 +24487,13 @@ a.ui.card:hover,
 .ui.brown.cards > .card,
 .ui.cards > .brown.card,
 .ui.brown.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #A5673F, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #A5673F, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.brown.cards > .card:hover,
 .ui.cards > .brown.card:hover,
 .ui.brown.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #975b33, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #975b33, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Grey */
@@ -25771,13 +24501,13 @@ a.ui.card:hover,
 .ui.grey.cards > .card,
 .ui.cards > .grey.card,
 .ui.grey.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #767676, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #9E9E9E, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.grey.cards > .card:hover,
 .ui.cards > .grey.card:hover,
 .ui.grey.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #838383, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #ababab, 0px 0em 3px 0px #BCBDBD;
 }
 
 /* Black */
@@ -25785,13 +24515,13 @@ a.ui.card:hover,
 .ui.black.cards > .card,
 .ui.cards > .black.card,
 .ui.black.card {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #1B1C1D, 0px 1px 3px 0px #D4D4D5;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #1B1C1D, 0px 0em 3px 0px #D4D4D5;
 }
 
 .ui.black.cards > .card:hover,
 .ui.cards > .black.card:hover,
 .ui.black.card:hover {
-  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #27292a, 0px 1px 3px 0px #BCBDBD;
+  box-shadow: 0px 0px 0px 1px #D4D4D5, 0px 2px 0px 0px #27292a, 0px 0em 3px 0px #BCBDBD;
 }
 
 /*--------------
@@ -26149,8 +24879,46 @@ a.ui.card:hover,
 }
 
 /*******************************
-         Theme Overrides
+             Item
 *******************************/
+
+/*-------------------
+         View
+--------------------*/
+
+/* Item */
+
+/* Item Group */
+
+/*-------------------
+       Content
+--------------------*/
+
+/* Image */
+
+/* Content */
+
+/* Title */
+
+/* Metadata */
+
+/* Description */
+
+/* Image */
+
+/* Paragraph */
+
+/* Additional Content */
+
+/*-------------------
+       States
+--------------------*/
+
+/*-------------------
+      Variations
+--------------------*/
+
+/* Sizes */
 
 /*******************************
     User Variable Overrides
@@ -27630,7 +26398,7 @@ a.ui.card:hover,
 .ui.orange.statistics .statistic > .value,
 .ui.statistics .orange.statistic > .value,
 .ui.orange.statistic > .value {
-  color: #F3A530;
+  color: #FDC167;
 }
 
 .ui.yellow.statistics .statistic > .value,
@@ -27654,13 +26422,13 @@ a.ui.card:hover,
 .ui.teal.statistics .statistic > .value,
 .ui.statistics .teal.statistic > .value,
 .ui.teal.statistic > .value {
-  color: #4CB2D4;
+  color: #76C6DE;
 }
 
 .ui.blue.statistics .statistic > .value,
 .ui.statistics .blue.statistic > .value,
 .ui.blue.statistic > .value {
-  color: #2185D0;
+  color: #105170;
 }
 
 .ui.violet.statistics .statistic > .value,
@@ -28756,7 +27524,7 @@ a.ui.card:hover,
 
 .ui.toggle.checkbox input:checked ~ .box:before,
 .ui.toggle.checkbox input:checked ~ label:before {
-  background-color: #2185D0 !important;
+  background-color: #105170 !important;
 }
 
 .ui.toggle.checkbox input:checked ~ .box:after,
@@ -28774,7 +27542,7 @@ a.ui.card:hover,
 
 .ui.toggle.checkbox input:focus:checked ~ .box:before,
 .ui.toggle.checkbox input:focus:checked ~ label:before {
-  background-color: #0d71bb !important;
+  background-color: #043953 !important;
 }
 
 /*******************************
@@ -32709,7 +31477,7 @@ a.ui.nag {
 /* Orange */
 
 .ui.orange.progress .bar {
-  background-color: #F3A530;
+  background-color: #FDC167;
 }
 
 .ui.orange.inverted.progress .bar {
@@ -32749,7 +31517,7 @@ a.ui.nag {
 /* Teal */
 
 .ui.teal.progress .bar {
-  background-color: #4CB2D4;
+  background-color: #76C6DE;
 }
 
 .ui.teal.inverted.progress .bar {
@@ -32759,7 +31527,7 @@ a.ui.nag {
 /* Blue */
 
 .ui.blue.progress .bar {
-  background-color: #2185D0;
+  background-color: #105170;
 }
 
 .ui.blue.inverted.progress .bar {

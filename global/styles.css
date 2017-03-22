@@ -1,5 +1,9 @@
-.mt1.ui.two.column.stackable.grid{
-	margin-top:2vh;
+.m1.ui.two.column.stackable.grid{
+	margin:2vh auto;
+}
+
+.masthead.center.aligned.segment{
+	padding-bottom:3vh;
 }
 
 .masthead h1.ui.header{
@@ -19,7 +23,7 @@
 }
 
 div.ui.text.container{
-	margin-bottom:3.5em;
+	margin-bottom:2.5em;
 }
 
 @media only screen and (max-width: 700px){

@@ -356,11 +356,11 @@
 }
 .ui.orange.message {
   background-color: #FFEDDE;
-  color: #F3A530;
-  box-shadow: 0px 0px 0px 1px #F3A530 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #FDC167;
+  box-shadow: 0px 0px 0px 1px #FDC167 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.orange.message .header {
-  color: #f29b18;
+  color: #fdb74e;
 }
 .ui.yellow.message {
   background-color: #FFF8DB;
@@ -396,11 +396,11 @@
 }
 .ui.blue.message {
   background-color: #DFF0FF;
-  color: #2185D0;
-  box-shadow: 0px 0px 0px 1px #2185D0 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #105170;
+  box-shadow: 0px 0px 0px 1px #105170 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.blue.message .header {
-  color: #1e77ba;
+  color: #0d415a;
 }
 .ui.violet.message {
   background-color: #EAE7FF;
