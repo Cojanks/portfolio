@@ -8,7 +8,7 @@
  * http://opensource.org/licenses/MIT
  *
  */
-@import url('https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic&subset=latin');
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,400,700,800,400italic,700italic&subset=latin');
 /*!
  * # Semantic UI 2.2.9 - Reset
  * http://github.com/semantic-org/semantic-ui/
@@ -35606,3 +35606,71 @@ html.ios {
 /*******************************
          Site Overrides
 *******************************/
+
+.my2.ui.two.column.stackable.grid{
+  margin:2vh auto;
+}
+.masthead.center.aligned.segment{
+  padding:4vh;
+}
+.masthead h1.ui.header{
+  margin-top: 2em;
+  font-size: 4.5rem;
+  font-weight: 400;
+  letter-spacing: .3vw;
+  margin-bottom:0;
+}
+.masthead h2.ui.header{
+  margin-top: 0;
+  margin-bottom: 2em;
+  font-size: 1.4rem;
+  font-weight: 100;
+  letter-spacing: .1vw;     
+}
+div.ui.text.container{
+  margin-bottom:2.5em;
+}
+a.headerlink{
+  color:black;
+}
+a.headerlink:hover{
+  color: #EE4035 !important;
+}
+@media only screen and (max-width: 700px){
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+  div.ui.vertical.stripe.segment{
+  padding:3vh 0 !important;
+  }
+}
+.mx1.ui.image{
+  margin:0 2vw !important;
+}
+.larger.ui.image{
+  width:120px !important;
+  margin:0 !important;
+}
+.mediumer.ui.image{
+  width:70px !important;
+  margin:0 1vw !important;
+}
+.ui.vertical.stripe.segment{
+  padding:3rem 0 !important;
+}
+.my0.ui.divider{
+  margin-top:0 !important;
+}
+.ui.basic.segment{
+  padding:0 2vw;
+}
+p.clientdesc{
+  font-weight: 400;
+}
+b{
+  color: #105170;
+}
+em{
+  font-weight: 800;
+}

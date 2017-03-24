@@ -1,5 +1,6 @@
 $('.menu .item')
-  .tab()
+  .tab();
+
+$('.small.modal')
+  .modal('show')
 ;
-
-
