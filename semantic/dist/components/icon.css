@@ -217,14 +217,14 @@ i.inverted.icon {
 
 /* Red */
 i.red.icon {
-  color: #EE4035 !important;
+  color: #cc362e !important;
 }
 i.inverted.red.icon {
   color: #FF695E !important;
 }
 i.inverted.bordered.red.icon,
 i.inverted.circular.red.icon {
-  background-color: #EE4035 !important;
+  background-color: #cc362e !important;
   color: #FFFFFF !important;
 }
 

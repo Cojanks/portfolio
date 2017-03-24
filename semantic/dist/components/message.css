@@ -348,11 +348,11 @@
 }
 .ui.red.message {
   background-color: #FFE8E6;
-  color: #EE4035;
-  box-shadow: 0px 0px 0px 1px #EE4035 inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  color: #cc362e;
+  box-shadow: 0px 0px 0px 1px #cc362e inset, 0px 0px 0px 0px rgba(0, 0, 0, 0);
 }
 .ui.red.message .header {
-  color: #ec2a1d;
+  color: #b73029;
 }
 .ui.orange.message {
   background-color: #FFEDDE;
