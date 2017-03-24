@@ -626,10 +626,10 @@
 
 /* Orange */
 .ui.orange.table {
-  border-top: 0.2em solid #FDC167;
+  border-top: 0.2em solid #ff9a4a;
 }
 .ui.inverted.orange.table {
-  background-color: #FDC167 !important;
+  background-color: #ff9a4a !important;
   color: #FFFFFF !important;
 }
 
@@ -662,19 +662,19 @@
 
 /* Teal */
 .ui.teal.table {
-  border-top: 0.2em solid #76C6DE;
+  border-top: 0.2em solid #92D4E8;
 }
 .ui.inverted.teal.table {
-  background-color: #76C6DE !important;
+  background-color: #92D4E8 !important;
   color: #FFFFFF !important;
 }
 
 /* Blue */
 .ui.blue.table {
-  border-top: 0.2em solid #105170;
+  border-top: 0.2em solid #1d3156;
 }
 .ui.inverted.blue.table {
-  background-color: #105170 !important;
+  background-color: #1d3156 !important;
   color: #FFFFFF !important;
 }
 

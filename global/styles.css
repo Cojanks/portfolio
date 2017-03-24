@@ -1,44 +1,91 @@
-.m1.ui.two.column.stackable.grid{
-	margin:2vh auto;
+.my2.ui.two.column.stackable.grid{
+  margin:2vh auto;
 }
-
 .masthead.center.aligned.segment{
-	padding-bottom:3vh;
+  padding:4vh;
 }
-
 .masthead h1.ui.header{
-	margin-top: 2.5em;
-	font-size: 4.5rem;
-	font-weight: 400;
-	letter-spacing: .3vw;
-	margin-bottom:0;
+  margin-top: 2em;
+  font-size: 4.5rem;
+  font-weight: 400;
+  letter-spacing: .3vw;
+  margin-bottom:0;
 }
-
 .masthead h2.ui.header{
-	margin-top: 0;
-	margin-bottom: 2em;
-	font-size: 1.4rem;
-	font-weight: 100;
-	letter-spacing: .1vw;	    
+  margin-top: 0;
+  margin-bottom: 2em;
+  font-size: 1.4rem;
+  font-weight: 100;
+  letter-spacing: .1vw;     
 }
-
 div.ui.text.container{
-	margin-bottom:2.5em;
+  margin-bottom:2.5em;
 }
-
 a.headerlink{
-	color:black;
+  color:black;
 }
-
 a.headerlink:hover{
-	color: #EE4035;
+  color: #EE4035 !important;
 }
-
-
-
 @media only screen and (max-width: 700px){
-	.masthead h1.ui.header {
-		font-size: 2em;
-		margin-top: 1.5em;
-	}
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+  div.ui.vertical.stripe.segment{
+  padding:3vh 0 !important;
+  }
 }
+.mx1.ui.image{
+  margin:0 2vw !important;
+}
+.larger.ui.image{
+  width:120px !important;
+  margin:0 !important;
+}
+.mediumer.ui.image{
+  width:85px !important;
+  margin:0 1vw !important;
+}
+.ui.vertical.stripe.segment{
+  padding:3rem 0 !important;
+}
+.my0.ui.divider{
+  margin-top:0 !important;
+}
+.ui.basic.segment{
+  padding:0 2vw;
+}
+p.clientdesc{
+  font-weight: 400;
+}
+b{
+  color: #105170;
+}
+em{
+  font-weight: 800;
+}
+
+/* Original
+@orange         : #FDC167;
+@teal           : #76C6DE;
+@red           : #EE4035;
+@green       : #a3d749;
+@blue        : #105170;
+*/
+
+/* 2
+@orange         : #ff9a4a;
+@teal           : #92D4E8;
+@red           : #EE4035;
+@green       : #a3d749;
+@blue        : #414b8b;
+*/
+
+/* 3
+@orange         : #ff9a4a;
+@teal           : #92D4E8;
+@red           : #EE4035;
+@green       : #a3d749;
+@blue        : #1d3156;
+*/

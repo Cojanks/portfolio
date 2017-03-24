@@ -1,8 +1,8 @@
 /*******************************
      User Global Variables
 *******************************/
-@orange         : #FDC167;
-@teal           : #76C6DE;
-@red         	 : #EE4035;
-@green			 : #a3d749;
-@blue				 : #105170;
+@orange         : #ff9a4a;
+@teal           : #92D4E8;
+@red           : #EE4035;
+@green       : #a3d749;
+@blue        : #1d3156;
