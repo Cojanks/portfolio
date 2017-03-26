@@ -508,16 +508,16 @@ a.ui.active.label:ActiveHover:before {
 
 .ui.red.labels .label,
 .ui.red.label {
-  background-color: #cc362e !important;
-  border-color: #cc362e !important;
+  background-color: #EE4035 !important;
+  border-color: #EE4035 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.red.labels .label:hover,
 a.ui.red.label:hover {
-  background-color: #be2a22 !important;
-  border-color: #be2a22 !important;
+  background-color: #f62113 !important;
+  border-color: #f62113 !important;
   color: #FFFFFF !important;
 }
 
@@ -529,36 +529,36 @@ a.ui.red.label:hover {
 
 /* Ribbon */
 .ui.red.ribbon.label {
-  border-color: #a22b25 !important;
+  border-color: #dd1f13 !important;
 }
 
 /* Basic */
 .ui.basic.red.label {
   background-color: #FFFFFF !important;
-  color: #cc362e !important;
-  border-color: #cc362e !important;
+  color: #EE4035 !important;
+  border-color: #EE4035 !important;
 }
 .ui.basic.red.labels a.label:hover,
 a.ui.basic.red.label:hover {
   background-color: #FFFFFF !important;
-  color: #be2a22 !important;
-  border-color: #be2a22 !important;
+  color: #f62113 !important;
+  border-color: #f62113 !important;
 }
 
 /*--- Orange ---*/
 
 .ui.orange.labels .label,
 .ui.orange.label {
-  background-color: #ff9a4a !important;
-  border-color: #ff9a4a !important;
+  background-color: #FDC167 !important;
+  border-color: #FDC167 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.orange.labels .label:hover,
 a.ui.orange.label:hover {
-  background-color: #ff8c31 !important;
-  border-color: #ff8c31 !important;
+  background-color: #ffb74b !important;
+  border-color: #ffb74b !important;
   color: #FFFFFF !important;
 }
 
@@ -570,20 +570,20 @@ a.ui.orange.label:hover {
 
 /* Ribbon */
 .ui.orange.ribbon.label {
-  border-color: #ff7e17 !important;
+  border-color: #fcac35 !important;
 }
 
 /* Basic */
 .ui.basic.orange.label {
   background-color: #FFFFFF !important;
-  color: #ff9a4a !important;
-  border-color: #ff9a4a !important;
+  color: #FDC167 !important;
+  border-color: #FDC167 !important;
 }
 .ui.basic.orange.labels a.label:hover,
 a.ui.basic.orange.label:hover {
   background-color: #FFFFFF !important;
-  color: #ff8c31 !important;
-  border-color: #ff8c31 !important;
+  color: #ffb74b !important;
+  border-color: #ffb74b !important;
 }
 
 /*--- Yellow ---*/
@@ -713,16 +713,16 @@ a.ui.basic.green.label:hover {
 
 .ui.teal.labels .label,
 .ui.teal.label {
-  background-color: #92D4E8 !important;
-  border-color: #92D4E8 !important;
+  background-color: #76C6DE !important;
+  border-color: #76C6DE !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.teal.labels .label:hover,
 a.ui.teal.label:hover {
-  background-color: #78cee9 !important;
-  border-color: #78cee9 !important;
+  background-color: #5bc1df !important;
+  border-color: #5bc1df !important;
   color: #FFFFFF !important;
 }
 
@@ -734,36 +734,36 @@ a.ui.teal.label:hover {
 
 /* Ribbon */
 .ui.teal.ribbon.label {
-  border-color: #68c3df !important;
+  border-color: #4db5d4 !important;
 }
 
 /* Basic */
 .ui.basic.teal.label {
   background-color: #FFFFFF !important;
-  color: #92D4E8 !important;
-  border-color: #92D4E8 !important;
+  color: #76C6DE !important;
+  border-color: #76C6DE !important;
 }
 .ui.basic.teal.labels a.label:hover,
 a.ui.basic.teal.label:hover {
   background-color: #FFFFFF !important;
-  color: #78cee9 !important;
-  border-color: #78cee9 !important;
+  color: #5bc1df !important;
+  border-color: #5bc1df !important;
 }
 
 /*--- Blue ---*/
 
 .ui.blue.labels .label,
 .ui.blue.label {
-  background-color: #1d3156 !important;
-  border-color: #1d3156 !important;
+  background-color: #105170 !important;
+  border-color: #105170 !important;
   color: #FFFFFF !important;
 }
 
 /* Link */
 .ui.blue.labels .label:hover,
 a.ui.blue.label:hover {
-  background-color: #142545 !important;
-  border-color: #142545 !important;
+  background-color: #09425e !important;
+  border-color: #09425e !important;
   color: #FFFFFF !important;
 }
 
@@ -775,20 +775,20 @@ a.ui.blue.label:hover {
 
 /* Ribbon */
 .ui.blue.ribbon.label {
-  border-color: #101b30 !important;
+  border-color: #0a3143 !important;
 }
 
 /* Basic */
 .ui.basic.blue.label {
   background-color: #FFFFFF !important;
-  color: #1d3156 !important;
-  border-color: #1d3156 !important;
+  color: #105170 !important;
+  border-color: #105170 !important;
 }
 .ui.basic.blue.labels a.label:hover,
 a.ui.basic.blue.label:hover {
   background-color: #FFFFFF !important;
-  color: #142545 !important;
-  border-color: #142545 !important;
+  color: #09425e !important;
+  border-color: #09425e !important;
 }
 
 /*--- Violet ---*/

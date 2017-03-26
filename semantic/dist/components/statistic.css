@@ -320,12 +320,12 @@
 .ui.red.statistics .statistic > .value,
 .ui.statistics .red.statistic > .value,
 .ui.red.statistic > .value {
-  color: #cc362e;
+  color: #EE4035;
 }
 .ui.orange.statistics .statistic > .value,
 .ui.statistics .orange.statistic > .value,
 .ui.orange.statistic > .value {
-  color: #ff9a4a;
+  color: #FDC167;
 }
 .ui.yellow.statistics .statistic > .value,
 .ui.statistics .yellow.statistic > .value,
@@ -345,12 +345,12 @@
 .ui.teal.statistics .statistic > .value,
 .ui.statistics .teal.statistic > .value,
 .ui.teal.statistic > .value {
-  color: #92D4E8;
+  color: #76C6DE;
 }
 .ui.blue.statistics .statistic > .value,
 .ui.statistics .blue.statistic > .value,
 .ui.blue.statistic > .value {
-  color: #1d3156;
+  color: #105170;
 }
 .ui.violet.statistics .statistic > .value,
 .ui.statistics .violet.statistic > .value,

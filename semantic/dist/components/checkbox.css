@@ -543,7 +543,7 @@
 }
 .ui.toggle.checkbox input:checked ~ .box:before,
 .ui.toggle.checkbox input:checked ~ label:before {
-  background-color: #1d3156 !important;
+  background-color: #105170 !important;
 }
 .ui.toggle.checkbox input:checked ~ .box:after,
 .ui.toggle.checkbox input:checked ~ label:after {
@@ -558,7 +558,7 @@
 }
 .ui.toggle.checkbox input:focus:checked ~ .box:before,
 .ui.toggle.checkbox input:focus:checked ~ label:before {
-  background-color: #0f1f3b !important;
+  background-color: #043953 !important;
 }
 
 
