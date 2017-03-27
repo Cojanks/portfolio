@@ -65,6 +65,9 @@ b{
 em{
   font-weight: 800;
 }
+.footerpad.ui.vertical.stripe.segment{
+  padding:6rem 0 !important;
+}
 
 /* Original
 @orange         : #FDC167;
