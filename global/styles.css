@@ -69,6 +69,11 @@ em{
   padding:6rem 0 !important;
 }
 
+h1.footerheader{
+  font-size: 2.5rem !important;
+  letter-spacing: .2vw;
+}
+
 /* Original
 @orange         : #FDC167;
 @teal           : #76C6DE;
