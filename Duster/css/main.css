@@ -74,7 +74,6 @@ a:focus{
 	/*font-style: italic;*/
 }
 
-
 .aboutSec{
 	color: #B79B88;
 	background-image: url(../Assets/Astro.jpg);
@@ -178,7 +177,6 @@ a:focus{
 	color:#CC6633;
 }
 
-
 footer{
 	background-image: url(../Assets/footer2.png);
     background-repeat: no-repeat;
@@ -253,15 +251,7 @@ img{
 }
 
 
-
-
-
-
-
-
-
 /* ==================== Media Queries ==================== */
-/* smartphones, iPhone, portrait 480x320 phones */
 @media (min-width:320px)  {
 header{
 	background-size: 150%}
@@ -310,7 +300,6 @@ hr {
 #AM{
 	font-size: 34px; 
 	letter-spacing: 1px}
-
 } /* End (min-width:320px) */
 
 
@@ -356,7 +345,6 @@ hr {
 #AM{
 	font-size: 36px; 
 	letter-spacing: 3px}
-
 } /* End (min-width:481px) */
 
 
@@ -405,7 +393,6 @@ hr {
 #AM{
 	font-size: 36px; 
 	letter-spacing: 3px}
-
 } /* End (min-width:641px) */
 
 
@@ -447,8 +434,6 @@ hr {
 #AM{
 	font-size: 20px; 
 	letter-spacing: 3px}
-
-
 } /* End (min-width:961px) */
 
 
@@ -494,7 +479,6 @@ hr {
 #AM{
 	font-size: 25px; 
 	letter-spacing: 2px}
-
 } /* End (min-width:1025px) */
 
 
@@ -515,5 +499,4 @@ hr {
 #AM{
 	font-size: 26px; 
 	letter-spacing: 3px}
-
 } /* End (min-width:1281px) */
