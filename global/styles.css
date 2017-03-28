@@ -27,15 +27,6 @@ a.headerlink{
 a.headerlink:hover{
   color: #EE4035 !important;
 }
-@media only screen and (max-width: 700px){
-  .masthead h1.ui.header {
-    font-size: 2em;
-    margin-top: 1.5em;
-  }
-  div.ui.vertical.stripe.segment{
-  padding:3vh 0 !important;
-  }
-}
 .mx1.ui.image{
   margin:0 2vw !important;
 }
@@ -44,7 +35,7 @@ a.headerlink:hover{
   margin:0 !important;
 }
 .mediumer.ui.image{
-  width:85px !important;
+  width:80px !important;
   margin:0 1vw !important;
 }
 .ui.vertical.stripe.segment{
@@ -65,35 +56,35 @@ b{
 em{
   font-weight: 800;
 }
-.footerpad.ui.vertical.stripe.segment{
-  padding:6rem 0 !important;
+.dusterbuttons.ui.center.aligned.basic.segment{
+  margin:8vh 0;
 }
-
+.footerpad.ui.vertical.stripe.segment{
+  padding:4rem 0 !important;
+}
 h1.footerheader{
-  font-size: 2.5rem !important;
+  font-size: 3rem !important;
   letter-spacing: .2vw;
 }
+h1.ui.inverted.header.footerheader{
+  font-weight: 400;
+  margin:.5vh 0;
+}
+h3.footersubheader.ui.header{
+  margin:0 !important;
+  font-weight: 100;
+  letter-spacing: .1vw;
+}
+.footerbutton.ui.big.teal.button{
+  margin:4vh 1vw;
+}
 
-/* Original
-@orange         : #FDC167;
-@teal           : #76C6DE;
-@red           : #EE4035;
-@green       : #a3d749;
-@blue        : #105170;
-*/
-
-/* 2
-@orange         : #ff9a4a;
-@teal           : #92D4E8;
-@red           : #EE4035;
-@green       : #a3d749;
-@blue        : #414b8b;
-*/
-
-/* 3
-@orange         : #ff9a4a;
-@teal           : #92D4E8;
-@red           : #EE4035;
-@green       : #a3d749;
-@blue        : #1d3156;
-*/
+@media only screen and (max-width: 700px){
+  .masthead h1.ui.header {
+    font-size: 2em;
+    margin-top: 1.5em;
+  }
+  div.ui.vertical.stripe.segment{
+  padding:3vh 0 !important;
+  }
+}
